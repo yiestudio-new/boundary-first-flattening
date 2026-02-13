@@ -1,5 +1,6 @@
 #pragma once
 
+#include <stdint.h>
 #include "bff/mesh/GeometryUtils.h"
 #include "bff/mesh/CutIterator.h"
 
